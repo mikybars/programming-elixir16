@@ -1,4 +1,4 @@
-# Programming Elixir 1.6
+# Programming Elixir 1.6 -- a change
 
 This repository contains code examples and exercises from the book "Programming Elixir ≥ 1.6" by Dave Thomas.
 
